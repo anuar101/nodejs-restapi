@@ -1,7 +1,7 @@
 
 ##  This is a very basic example of CRUD in RESTFUL API + Node.js + mySQL + EJS.
 
-	Creadted by  : Wang
+	Created by  : Wang
 
 ## Installation
 *for newbies : Clone or download zip to your machine then hit this :
@@ -39,4 +39,4 @@ You're gonna need to create a DB named 'nodejs' and import customer.sql
 
 ## Step 5 : 
 
-	Access in you browser http://localhost:4300/customers "note : 4300 port was default from my app so anytime you can change"
+	Access in you browser http://localhost:4300/customers "note : 4300 port was default from my app so anytime you can change it"
